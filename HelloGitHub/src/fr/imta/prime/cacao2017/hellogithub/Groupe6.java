@@ -8,6 +8,7 @@ public class Groupe6 {
 	public static void main (String[] args) {
 		Nom("War20");
 		Nom("Antoine");
+		Nom("ange");
 	}
 	
 }
