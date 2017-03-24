@@ -5,6 +5,7 @@ public class HelloGitHub {
 
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Lolotteisyoung");
 		System.out.println("swerne16");
 		System.out.println("AnaisBel");
@@ -12,5 +13,9 @@ public class HelloGitHub {
 	}		
 	
 
+=======
+		
+	}
+>>>>>>> refs/remotes/CACAO2017/master
 
 }
