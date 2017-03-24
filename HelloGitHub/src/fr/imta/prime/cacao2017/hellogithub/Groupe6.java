@@ -9,7 +9,7 @@ public class Groupe6 {
 		Nom("War20");
 		Nom("antoineroson");
 		Nom("fcadre");
-		
+		Nom("ange");
 	}
 	
 }
